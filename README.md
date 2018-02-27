@@ -5,3 +5,4 @@
 python3.6.3 + django1.10.5 + xadmin0.6
 
 #### 功能
+<image src="http://ozlmdgnml.bkt.clouddn.com/mxonline.png">
